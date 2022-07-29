@@ -95,5 +95,7 @@ def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
-df = pd.read_csv("penguins.csv")
+df = pd.read_csv(
+    "https://raw.githubusercontent.com/mcnakhaee/palmerpenguins/master/palmerpenguins/data/penguins.csv"
+)
 st.dataframe(filter_dataframe(df))
