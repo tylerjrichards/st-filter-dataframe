@@ -8,7 +8,14 @@ from pandas.api.types import (
     is_object_dtype,
 )
 
-st.title("")
+st.title("Auto Filter Dataframes in Streamlit")
+
+st.write(
+    """This app accomplanies the blog [here]() and walks you through
+    one example of how the Streamlit Data Science Team builds add-on functions
+    to Streamlit.
+    """
+)
 
 
 def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
