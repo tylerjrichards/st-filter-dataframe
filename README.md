@@ -1,8 +1,8 @@
 # Streamlit Auto Filter Dataframes
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tylerjrichards-st-filter-dataframe-streamlit-app-h7l9c1.streamlitapp.com/)
 
-<img width="600" src="">
+![Demo](filter_auto.gif)
 
 ### Summary
 
