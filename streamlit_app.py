@@ -87,7 +87,7 @@ def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
                     df = df.loc[df[column].between(start_date, end_date)]
             else:
                 user_text_input = right.text_input(
-                    f"Pattern or regex in {column}",
+                    f"Substring or regex in {column}",
                 )
                 if user_text_input:
                     df = df[df[column].str.contains(user_text_input)]
