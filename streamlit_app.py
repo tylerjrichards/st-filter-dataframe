@@ -11,7 +11,7 @@ from pandas.api.types import (
 st.title("Auto Filter Dataframes in Streamlit")
 
 st.write(
-    """This app accomplanies the blog [here]() and walks you through
+    """This app accomodates the blog [here]() and walks you through
     one example of how the Streamlit Data Science Team builds add-on functions
     to Streamlit.
     """
