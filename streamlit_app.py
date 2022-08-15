@@ -35,7 +35,7 @@ def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
 
     df = df.copy()
 
-    # Try to convert datetimes into standard format (datetime, no timezone)
+    # Try to convert datetimes into a standard format (datetime, no timezone)
     for col in df.columns:
         if is_object_dtype(df[col]):
             try:
