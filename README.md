@@ -1,6 +1,6 @@
-# Streamlit Auto Filter Dataframes
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://st-filter-dataframe.streamlitapp.com/) <a href="https://github.com/arnaudmiribel/streamlit-extras"> <img src="https://img.shields.io/badge/-%F0%9F%AA%A2%20featured%20extra-e8ded1"></img></a>
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://st-filter-dataframe.streamlitapp.com/)
+# Streamlit Auto Filter Dataframes
 
 ![Demo](filter_auto_capture.gif)
 
